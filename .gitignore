@@ -1,0 +1,10 @@
+# specific file
+secrets.txt 
+config.json
+
+#ignore folders
+build/
+dist/
+#ignore files with specific extensions
+*.log
+*.tmp
